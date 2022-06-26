@@ -1,7 +1,7 @@
 
-
-<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Dev.Eunchae&animation=fadeIn&fontSize=100&fontAlign=50&fontAlignY=40&color=gradient)
+<div align=center>
+
 
 👩🏻‍💻 Study Stack 👩🏻‍💻
   <div align = center>
