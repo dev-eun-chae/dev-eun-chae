@@ -1,11 +1,13 @@
 # 😎 HELLO  I'm Eunchae✌️
 
 - 교육학을 사랑하는 프론트엔드 개발자 손은채입니다
-<img src = "https://user-images.githubusercontent.com/104378330/183552687-7abf04fa-4a46-4187-8a27-d17305b2d888.jpeg" width="50%">
 - 함께 공부하며 성장하는 우리가 자랑스러워요
 - 내일 더 성장할 나를 기대해요
 - 다정함과 따뜻함이 주는 힘을 믿어요
 - 재밌고 다시 생각나는 서비스, 지속 가능한 서비스에 관심이 많아요
+
+
+<img src = "https://user-images.githubusercontent.com/104378330/183552687-7abf04fa-4a46-4187-8a27-d17305b2d888.jpeg" width="50%">
 
 # Introduce Eunchae
 
@@ -28,7 +30,7 @@
 </a> 
 
 #### My Blog
- <a  href="https://velog.io/@dev_eunchae"> ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=deveunchae) 
+ <a  href="https://velog.io/@dev_eunchae"> ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eunchae) 
 </a>![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dev_eunchae&tag=팀프로젝트)
 
 
