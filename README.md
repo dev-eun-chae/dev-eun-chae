@@ -31,7 +31,7 @@
  <a  href="https://velog.io/@dev_eunchae"> ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eunchae) 
 </a>![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dev_eunchae&tag=팀프로젝트)
 
-
+#### My Notion <a href="https://bit.ly/3vSJx6B">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) </a> 
    
 
 # 👩🏻‍💻 !!! Study || Use !!! FE STACK   👩🏻‍💻
@@ -62,7 +62,7 @@
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
  ### use ETC
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 
   
