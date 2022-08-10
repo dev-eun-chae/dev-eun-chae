@@ -15,21 +15,15 @@
 - 코드캠프 프론트엔드 7기 수료 
 - 인하대학교 사범대학 교육학 학사 && 국어교육학 학사
 
-... 
-
-####  My laptop ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
-####  My mobile ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
-
-#### My tablet ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+---
   
 #### My E-Mail
 <a  href="http://dev.eunchae@gmail.com/">![Gmail](https://img.shields.io/badge/dev.eunchae@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a  href="http://dev.eunchae@gmail.com/"> ![KakaoTalk](https://img.shields.io/badge/seunc0630@kakao.com-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
 </a> 
 
 #### My Blog
- <a  href="https://velog.io/@dev_eunchae"> ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eunchae) 
-</a>![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dev_eunchae&tag=팀프로젝트)
+ <a  href="https://velog.io/@dev_eunchae"> ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eunchae) </a>
+ <a href ="https://velog.io/@dev_eunchae/코드캠프-팀-프로젝트-최종-회고"> ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dev_eunchae&tag=팀프로젝트)</a>
 
 #### My Notion <a href="https://bit.ly/3vSJx6B">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) </a> 
    
