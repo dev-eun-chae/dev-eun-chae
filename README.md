@@ -15,7 +15,7 @@
 # 🎤 Introduce Eunchae
 
 - 코드캠프 프론트엔드 7기 수료 
-- 인하대학교 사범대학 교육학 학사 && 국어교육학 학사
+- 인하대학교 사범대학 교육학 && 국어교육학
 
 ---
 <div align=center>
@@ -71,9 +71,9 @@
 # 💻 github stats
 
 
-
+<div align=center>
 <a href="https://github.com/dev-eun-chae/github-readme-stats"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=dev-eun-chae&show_icons=true&theme=buefy&count_private=true&hide_border=true" alt="dev-eun-chae's github stats" /></a> <a href="https://github.com/dev-eun-chae/github-readme-stats"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-eun-chae&layout=compact&count_private=true&theme=buefy&hide_border=true" /></a> 
-
+</div>
 
 # 🫶🏻 WELCOME
 <div align=center>
