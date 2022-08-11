@@ -18,8 +18,10 @@
 - 인하대학교 사범대학 교육학 학사 && 국어교육학 학사
 
 ---
+<div align=center>
   
-#### My E-Mail <a  href="http://dev.eunchae@gmail.com/">![Gmail](https://img.shields.io/badge/dev.eunchae@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a  href="http://dev.eunchae@gmail.com/"> ![KakaoTalk](https://img.shields.io/badge/seunc0630@kakao.com-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
+#### My E-Mail 
+<a  href="http://dev.eunchae@gmail.com/">![Gmail](https://img.shields.io/badge/dev.eunchae@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a  href="http://dev.eunchae@gmail.com/"> ![KakaoTalk](https://img.shields.io/badge/seunc0630@kakao.com-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
 </a>
 
 #### My Blog ⬇️
@@ -27,8 +29,10 @@
  <a href ="https://velog.io/@dev_eunchae/코드캠프-팀-프로젝트-최종-회고"> ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dev_eunchae&tag=팀프로젝트)</a>
 
 
-#### My Resume ➡️ <a href="https://bit.ly/3vSJx6B">![Notion](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) </a> 
+#### My Resume ⬇️
+<a href="https://bit.ly/3vSJx6B">![Notion](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) </a> 
    
+</div>   
 
 # 👩🏻‍💻 !!! Study || Use !!! FE STACK   👩🏻‍💻
 
