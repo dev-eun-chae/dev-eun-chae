@@ -1,3 +1,5 @@
+
+
 # 😎 HELLO  I'm Eunchae✌️
 
 - 교육학을 사랑하는 프론트엔드 개발자 손은채입니다
@@ -17,13 +19,13 @@
 
 ---
   
-#### My E-Mail
-<a  href="http://dev.eunchae@gmail.com/">![Gmail](https://img.shields.io/badge/dev.eunchae@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a  href="http://dev.eunchae@gmail.com/"> ![KakaoTalk](https://img.shields.io/badge/seunc0630@kakao.com-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
-</a> 
+#### My E-Mail <a  href="http://dev.eunchae@gmail.com/">![Gmail](https://img.shields.io/badge/dev.eunchae@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a  href="http://dev.eunchae@gmail.com/"> ![KakaoTalk](https://img.shields.io/badge/seunc0630@kakao.com-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
+</a>
 
 #### My Blog
  <a  href="https://velog.io/@dev_eunchae"> ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eunchae) </a>
  <a href ="https://velog.io/@dev_eunchae/코드캠프-팀-프로젝트-최종-회고"> ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dev_eunchae&tag=팀프로젝트)</a>
+
 
 #### My Notion <a href="https://bit.ly/3vSJx6B">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) </a> 
    
@@ -62,15 +64,17 @@
   
 
 
+# 💻 github stats
 
-# 💻 github stat 
 
 
-   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-eun-chae&show_icons=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-eun-chae&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/dev-eun-chae/github-readme-stats"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=dev-eun-chae&show_icons=true&theme=buefy&count_private=true&hide_border=true" alt="dev-eun-chae's github stats" /></a> <a href="https://github.com/dev-eun-chae/github-readme-stats"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-eun-chae&layout=compact&count_private=true&theme=buefy&hide_border=true" /></a> 
+
 
 # 🫶🏻 WELCOME
+<div align=center>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-eun-chae&count_bg=%23CE72E8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)
   
+  
+</div>
