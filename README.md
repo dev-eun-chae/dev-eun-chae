@@ -22,21 +22,21 @@
 #### My E-Mail <a  href="http://dev.eunchae@gmail.com/">![Gmail](https://img.shields.io/badge/dev.eunchae@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a  href="http://dev.eunchae@gmail.com/"> ![KakaoTalk](https://img.shields.io/badge/seunc0630@kakao.com-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
 </a>
 
-#### My Blog
+#### My Blog ⬇️
  <a  href="https://velog.io/@dev_eunchae"> ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eunchae) </a>
  <a href ="https://velog.io/@dev_eunchae/코드캠프-팀-프로젝트-최종-회고"> ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dev_eunchae&tag=팀프로젝트)</a>
 
 
-#### My Notion <a href="https://bit.ly/3vSJx6B">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) </a> 
+#### My Resume ➡️ <a href="https://bit.ly/3vSJx6B">![Notion](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) </a> 
    
 
 # 👩🏻‍💻 !!! Study || Use !!! FE STACK   👩🏻‍💻
 
 
- ### 1. Languages
+ ### Languages
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
- ### 2. Frameworks, Platforms and Libraries
+ ### Frameworks, Platforms and Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
