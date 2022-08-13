@@ -20,12 +20,11 @@
 ---
 <div align=center>
   
-#### My E-Mail 
-<a  href="http://dev.eunchae@gmail.com/">![Gmail](https://img.shields.io/badge/dev.eunchae@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a  href="http://dev.eunchae@gmail.com/"> ![KakaoTalk](https://img.shields.io/badge/seunc0630@kakao.com-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
-</a>
-
+#### My E-Mail ⬇️
+- ![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) dev.eunchae@gmail.com 
+- ![KakaoTalk](https://img.shields.io/badge/kakao-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000) seunc0630@kakao.com
 #### My Blog ⬇️
- <a  href="https://velog.io/@dev_eunchae"> ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eunchae) </a>
+-  <a  href="https://velog.io/@dev_eunchae"> ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eunchae) </a>
  <a href ="https://velog.io/@dev_eunchae/코드캠프-팀-프로젝트-최종-회고"> ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dev_eunchae&tag=팀프로젝트)</a>
 
 
