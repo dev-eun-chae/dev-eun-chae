@@ -1,6 +1,6 @@
 
 
-# 😎 HELLO  I'm Eunchae✌️
+# HELLO  I'm Eunchae✌️
 
 - 교육학을 사랑하는 프론트엔드 개발자 손은채입니다
 - 함께 공부하며 성장하는 우리가 자랑스러워요
@@ -29,7 +29,7 @@
 
 
 #### My Resume ⬇️
-<a href="https://bit.ly/3vSJx6B">![Notion](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) </a> 
+- <a href="https://bit.ly/3vSJx6B">![Notion](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) </a> 
    
 </div>   
 
