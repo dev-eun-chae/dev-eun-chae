@@ -27,7 +27,7 @@
 
 
 #### My Resume ⬇️
-- <a href="https://bit.ly/3vSJx6B">![Notion](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) </a> 
+- <a href="https://bit.ly/3RRP1ap">![Notion](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) </a> 
    
 </div>   
 
