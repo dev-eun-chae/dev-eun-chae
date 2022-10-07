@@ -24,6 +24,8 @@
 #### My Blog ⬇️
 -  <a  href="https://velog.io/@dev_eunchae"> ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eunchae) </a>
  <a href ="https://velog.io/@dev_eunchae/코드캠프-팀-프로젝트-최종-회고"> ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dev_eunchae&tag=팀프로젝트)</a>
+ 
+ - [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=eunchae&theme=dark)](https://devchaechae.tistory.com/)
 
 
 #### My Resume ⬇️
