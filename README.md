@@ -18,15 +18,13 @@
 ---
 <div align=center>
   
-#### My E-Mail ⬇️
+#### My E-Mail 
 - ![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) dev.eunchae@gmail.com 
 - ![KakaoTalk](https://img.shields.io/badge/kakao-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000) seunc0630@kakao.com
-#### My Blog ⬇️
+#### My Blog 
+| Velog : <a  href="https://velog.io/@dev_eunchae"> ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eunchae) </a>  | Tistory : [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=eunchae&theme=dark)](https://devchaechae.tistory.com/) |
 
--  <a  href="https://velog.io/@dev_eunchae"> ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eunchae) </a> 
-- [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=eunchae&theme=dark)](https://devchaechae.tistory.com/)
-
-#### My Resume ⬇️
+#### My Resume 
 - <a href="https://bit.ly/3RRP1ap">![Notion](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) </a> 
    
 </div>   
