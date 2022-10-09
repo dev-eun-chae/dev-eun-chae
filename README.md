@@ -2,8 +2,6 @@
 
 # HELLO  I'm Eunchae✌️
 
-<p align="center"><img src = "https://user-images.githubusercontent.com/104378330/183552687-7abf04fa-4a46-4187-8a27-d17305b2d888.jpeg" width="50%"></p>
-
 - 안녕하세요? 주니어 프론트엔드 개발자 지망생 손은채입니다.
 
 - 📕 함께 공부하며 성장하는 우리를 자랑스러워해요.
