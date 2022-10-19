@@ -16,7 +16,7 @@
 </div>   
 
 # 👩🏻‍💻 Study FE STACK   👩🏻‍💻
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="46" height="46" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="46" height="46" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="46" height="46" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="46" height="46" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="100" height="100" /></div>
 
 
 # 💻 github stats
