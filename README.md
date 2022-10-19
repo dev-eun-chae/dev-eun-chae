@@ -24,9 +24,5 @@
   
 ![snake gif](https://github.com/dev-eun-chae/dev-eun-chae/blob/output/github-contribution-grid-snake.svg)
 
-
-|<a  href="https://velog.io/@dev_eunchae"> ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eunchae) </a> |
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=eunchae&theme=dark)](https://devchaechae.tistory.com/)
-|
    
 </div>
