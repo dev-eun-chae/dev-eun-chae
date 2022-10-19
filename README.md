@@ -8,37 +8,15 @@
 
 # 🎤 Introduce Eunchae
 
-- 코드캠프 프론트엔드 7기 수료 
-- 인하대학교 사범대학 교육학 && 국어교육학
-
----
 <div align=center>
-  
-#### My E-Mail 
-- ![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) dev.eunchae@gmail.com 
 
 #### My Blog 
 | Velog : <a  href="https://velog.io/@dev_eunchae"> ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eunchae) </a>  | Tistory : [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=eunchae&theme=dark)](https://devchaechae.tistory.com/) |
    
 </div>   
 
-# 👩🏻‍💻 !!! Study || Use !!! FE STACK   👩🏻‍💻
-
-
- ### Languages
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-
- ### Frameworks, Platforms and Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
- ### use Hosting
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
- ### use ETC
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
-
-  
+# 👩🏻‍💻 Study FE STACK   👩🏻‍💻
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="46" height="46" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="46" height="46" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="46" height="46" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="46" height="46" /></div>
 
 
 # 💻 github stats
